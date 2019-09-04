@@ -1,0 +1,29 @@
+//chennai - 5d3aaf65fd1af001ec08a5fd
+//banglore -5d3aaf93fd1af001ec08a5fe
+//mysore-5d3aafade68cf625507ea5fe
+//trichy-5d3ab354bac65233fcbf1d14
+
+/*
+[
+    {
+        "_id": "5d3ab38ebac65233fcbf1d16",
+        "name": "South-Indian",
+        "__v": 0
+    },
+    {
+        "_id": "5d3ac32231097542d81ddb35",
+        "name": "North-Indian",
+        "__v": 0
+    },
+    {
+        "_id": "5d3ac3e631097542d81ddb36",
+        "name": "American",
+        "__v": 0
+    },
+    {
+        "_id": "5d3ac3fb31097542d81ddb37",
+        "name": "Chinese",
+        "__v": 0
+    }
+]
+*/
